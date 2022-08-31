@@ -1,2 +1,2 @@
 My first readme
-i start a cood today with alx and is so amazing
+i start a code today with alx and is so amazing
